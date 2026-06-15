@@ -1,5 +1,7 @@
 # AGENTS.md — Payload CMS Ecommerce
 
+See `TODO.md` for the phased project plan (seeds → shop → commerce → admin → post-MVP).
+
 ## Commands
 
 ```bash
